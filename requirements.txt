@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+xgboost
+catboost
+sklearn
+-e .
